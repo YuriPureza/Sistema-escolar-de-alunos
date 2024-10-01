@@ -1,0 +1,3 @@
+Marcus	8	9	10
+Beatriz	7	8	9
+Yuri	3	8	9
